@@ -212,10 +212,11 @@ figcaption {
 
 button {
     width: 70vw;
+    max-width: 275px;
     margin: 0 auto;
     background-color: #000;
     color: #fff;
-    padding: .85rem 0;
+    padding: .95rem 0;
     font-size: 1rem;
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -352,6 +353,11 @@ footer {
         gap: 2.5rem;
         align-items: center;
         width: 75%;
+    }
+
+    figcaption {
+        font-size: 4rem;
+
     }
 
 
