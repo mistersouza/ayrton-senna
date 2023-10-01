@@ -146,6 +146,7 @@ nav li {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-bottom: 5rem;
 }
 
 figcaption {
@@ -177,6 +178,7 @@ figcaption {
     height: fit-content;
     padding: 3rem 0 0;
     text-align: center;
+    margin-bottom: 5rem;
 }
 
 .profile-intro {
@@ -202,7 +204,10 @@ figcaption {
     flex-direction: column;
     line-height: 1.5rem;
     font-size: 0.85rem;
+    letter-spacing: 0.01em;
     padding: 3rem;
+    max-width: 65%;
+    margin: 0 auto;
 }
 
 /* Apply style to all children, but the last child */
@@ -238,11 +243,12 @@ button:hover {
     width: 100%;
     height: fit-content;
     text-align: center;
-    padding: 3rem 0;
+    background-color: #f6f6f6;
+    padding: 5rem 0 3rem;
+    margin-bottom: 5rem;
 }
 
 .image-grid {
-    background-color: #f6f6f6;
     padding: 1.5rem .5rem;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -276,6 +282,16 @@ footer {
 
 
 @media screen and (min-width: 780px) {
+
+    /* General */
+    h2 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 18px;
+        letter-spacing: .07em;
+    }
 
     header {
         position: fixed;
@@ -360,5 +376,11 @@ footer {
 
     }
 
+    /* Profile */
+    .profile-intro h2 {
+        max-width: 980px;
+        font-size: 1.85rem;
+        line-height: 1.5em;
 
+    }
 }
