@@ -42,17 +42,17 @@
           <div class="fa-container">
             <i class="fa-solid fa-user"></i>
           </div>
-          <p>Log in</p>
+          <a href="#">Log in</a>
         </div>
         <div class="nav-menu">
           <div class="nav-icon">
-            <input type="checkbox" id="nav-toggle" name="nav-toggle" />
-            <label for="nav-toggle" class="nav-toogle-label"
+            <input type="checkbox" id="nav-toggle" />
+            <label for="nav-toggle" class="toggle-label"
               ><i class="fa-solid fa-bars"></i
             ></label>
-            <nav>
-              <ul class="nav-links">
-                <li><a href="#hero">Home</a></li>
+            <nav class="menu">
+              <ul>
+                <li><a href="#hero" class="active">Home</a></li>
                 <li><a href="#profile">Profile</a></li>
                 <li><a href="#gallery">Galerry</a></li>
               </ul>
@@ -63,7 +63,7 @@
     </header>
     <main>
       <!-- Hero -->
-      <section id="hero">
+      <section id="hero" class="anchor">
         <div class="headings-container">
           <h2>Ayrton Senna</h2>
           <h3>The Birth of a Legend. The Passing of a Hero</h3>
@@ -77,7 +77,7 @@
         </figure>
       </section>
       <!-- Profile -->
-      <section id="profile">
+      <section id="profile" class="anchor">
         <article class="profile-intro">
           <h2>
             This site is a tribute to Ayrton Senna, a Brazilian hero whose
@@ -128,7 +128,7 @@
         </button>
       </section>
       <!-- Galerry -->
-      <section id="gallery">
+      <section id="gallery" class="anchor">
         <div class="headings-container">
           <h2>Senna's snapshots</h2>
           <h3>His journey</h3>
@@ -171,6 +171,52 @@
           ></a
           >Show More
         </button>
+      </section>
+      <section id="signup">
+        <form action="https://formdump.codeinstitute.net">
+          <div class="headings-container">
+            <h2>Join our mission</h2>
+            <h3>The Race isn't finished yet</h3>
+          </div>
+          <label for="first-name">First name</label>
+          <input type="text" id="first-name" name="first-name" required /><br />
+          <label for="last-name" id="last-name">Last name</label>
+          <input type="text" id="last-name" name="last-name" required /><br />
+          <label for="email" id="email">E-mail</label>
+          <input type="email" id="email" name="email" required /><br />
+          <fieldset>
+            <legend>Relationship</legend>
+            <div>
+              <label for="fan">Fan</label
+              ><input
+                type="radio"
+                id="fan"
+                name="relationship"
+                value="fan"
+                required
+              />
+            </div>
+            <div>
+              <label for="family">Family</label
+              ><input
+                type="radio"
+                id="family"
+                name="relationship"
+                value="family"
+              />
+            </div>
+            <div>
+              <label for="friend">Friend</label
+              ><input
+                type="radio"
+                id="friend"
+                name="relationship"
+                value="friend"
+              />
+            </div>
+          </fieldset>
+          <input type="submit" value="Join Us" aria-label="Click to submit" />
+        </form>
       </section>
     </main>
     <footer>
