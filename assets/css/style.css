@@ -206,7 +206,6 @@ figcaption {
     font-size: 0.85rem;
     letter-spacing: 0.01em;
     padding: 3rem;
-    max-width: 65%;
     margin: 0 auto;
 }
 
@@ -258,7 +257,9 @@ button:hover {
 
 .image-item img {
     width: 100%;
-    line-height: 1rem;
+    height: 100%;
+    object-fit: cover;
+    /* Maintains aspect ratio and covers entire div */
 }
 
 /* Footer */
@@ -292,6 +293,8 @@ footer {
         font-size: 18px;
         letter-spacing: .07em;
     }
+
+    /* Header */
 
     header {
         position: fixed;
@@ -381,6 +384,11 @@ footer {
         max-width: 980px;
         font-size: 1.85rem;
         line-height: 1.5em;
+    }
 
+    .profile-bio {
+        max-width: 65%;
+        line-height: 1.85rem;
+        font-size: 1rem;
     }
 }
