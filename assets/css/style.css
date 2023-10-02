@@ -40,6 +40,12 @@ h3 {
     text-transform: capitalize;
 }
 
+/* Reset style for a */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Body */
 body {
     display: flex;
@@ -68,10 +74,7 @@ header {
     border-bottom: 1px solid #000;
 }
 
-header a {
-    text-decoration: none;
-    color: inherit;
-}
+
 
 /* Styling for Font Awesome Container */
 .fa-container {
@@ -235,7 +238,7 @@ figcaption {
     padding-bottom: 1rem;
 }
 
-button {
+.button {
     width: 70vw;
     max-width: 275px;
     margin: 0 auto;
@@ -248,7 +251,7 @@ button {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-button:hover {
+.button:hover {
     background-color: #ffffff;
     /* White background on hover */
     color: #000000;
@@ -301,6 +304,7 @@ form {
 
 .contact-name {
     display: flex;
+    justify-content: space-between;
     gap: 1.5rem;
     margin-bottom: 1.5rem;
 }
@@ -459,5 +463,11 @@ footer {
         max-width: 65%;
         line-height: 1.85rem;
         font-size: 1rem;
+    }
+
+    /* Sign up */
+    form {
+        margin: 0 auto;
+        max-width: 65%;
     }
 }
