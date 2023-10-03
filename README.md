@@ -1,39 +1,27 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Ayrton Senna Memorial
 
-Welcome,
+Ayrton Senna transcended the boundaries of motorsport with his exceptional skills, charismatic personality, and unwavering sportsmanship. The Brazilian F1 racing driver's illustrious career, highlighted by his three Formula 1 World Championships, represents only a fraction of his profound impact. Senna evolved into an enduring symbol of passion, dedication, and inspiration, captivating the hearts of motorsport enthusiasts and extending his influence far beyond the race track.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+In honor of this remarkable hero, a beautifully crafted memorial website has been curated, offering a poignant tribute that befits his monumental stature. This memorial website stands as a testament to Senna's enduring legacy. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+<img src="assets/readme/memorial-breakpoints.webp">
 
-## Codeanywhere Reminders
+## Contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+[Planning & Development](https://github.com#planning--development)
 
-`python3 -m http.server`
+[Features](https://github.com/#features)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[Testing](https://github.com/#testing)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+[Deployment](https://github.com/#deployment)
 
-`http_server`
+[Languages](https://github.com/#languages)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+[Software](https://github.com/#software)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+[Media](https://github.com/davidcalikes/d#media)
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+[Credits](https://github.com/davidcalikes/#credits)
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Planning & Development
