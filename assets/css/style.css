@@ -179,12 +179,16 @@ nav a.active {
 }
 
 /* Get rid of checkbox */
-#nav-toggle {
+.nav-toggle {
     display: none;
 }
 
-#nav-toggle:checked~nav {
+.nav-toggle:checked~nav {
     display: block;
+}
+
+.navbar ul li a:target~nav {
+    display: none;
 }
 
 #nav-toggle:checked~.toggle-icon>.bar-top {
