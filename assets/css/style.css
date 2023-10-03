@@ -392,10 +392,11 @@ legend {
 footer {
     width: 100%;
     background-color: #000;
+    color: #fff;
     margin-top: 3rem;
 }
 
-.social-networks-container {
+.social-networks {
     text-align: center;
     display: flex;
     justify-content: space-evenly;
@@ -403,9 +404,6 @@ footer {
     list-style-type: none;
 }
 
-.social-networks-container i {
-    color: #fff;
-}
 
 @media screen and (min-width: 780px) {
 
@@ -514,4 +512,7 @@ footer {
         margin: 0 auto;
         max-width: 65%;
     }
-}
+
+    footer {
+        font-size: 150%;
+    }
