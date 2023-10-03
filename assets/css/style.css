@@ -75,8 +75,6 @@ header {
     border-bottom: 1px solid #000;
 }
 
-
-
 /* Styling for Font Awesome Container */
 .fa-container {
     display: flex;
@@ -84,7 +82,7 @@ header {
     align-items: center;
     background-color: #000;
     color: #fff;
-    /* Make container into cirlce */
+    /* Make container into a circle */
     width: 1.5em;
     height: 1.5em;
     border-radius: 50%;
@@ -143,7 +141,6 @@ nav li {
 }
 
 /* Styling for Navigation List Items on Hover */
-
 .nav-container a:hover {
     color: #565656;
     transition: all .3s;
@@ -155,7 +152,6 @@ nav a.active {
 }
 
 /* Styling for burger icon */
-
 .toggle-icon div {
     background-color: #000;
     width: 100%;
@@ -187,10 +183,6 @@ nav a.active {
     display: block;
 }
 
-.navbar ul li a:target~nav {
-    display: none;
-}
-
 #nav-toggle:checked~.toggle-icon>.bar-top {
     transform: rotate(135deg);
     margin-top: 8px;
@@ -205,10 +197,7 @@ nav a.active {
     margin-top: -12px;
 }
 
-
-
 /* Hero */
-
 #hero {
     width: 100%;
     height: auto;
@@ -231,7 +220,7 @@ figcaption {
     background: url('../images/ayrton-seena-hero-2.webp') no-repeat center center/cover;
 }
 
-.headings-container {
+headings-container {
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-around;
@@ -240,7 +229,6 @@ figcaption {
 }
 
 /* Profile */
-
 #profile {
     display: flex;
     flex-direction: column;
@@ -284,6 +272,8 @@ figcaption {
     padding-bottom: 1rem;
 }
 
+
+/* Button Styles */
 .button {
     width: 70vw;
     max-width: 275px;
@@ -306,8 +296,7 @@ figcaption {
     border: 1px solid #000;
 }
 
-/* Gallery */
-
+/* Gallery Styles */
 #gallery {
     display: flex;
     flex-direction: column;
@@ -334,7 +323,7 @@ figcaption {
     /* Maintains aspect ratio and covers entire div */
 }
 
-/* Sing Up */
+/* Sign Up Styles */
 #signup {
     width: 100%;
     padding: 0 1rem;
@@ -364,7 +353,6 @@ form {
     width: 100%;
 }
 
-
 .contact-email input {
     width: 100%;
 }
@@ -388,14 +376,12 @@ fieldset {
     border: none;
 }
 
-
 legend {
     position: absolute;
     visibility: hidden;
 }
 
-
-/* Footer */
+/* Footer Styles */
 footer {
     width: 100%;
     background-color: #000;
@@ -414,10 +400,9 @@ footer {
     color: #fff;
 }
 
-
 @media screen and (min-width: 780px) {
 
-    /* General */
+    /* General Styles */
     h2 {
         font-size: 28px;
     }
@@ -427,8 +412,7 @@ footer {
         letter-spacing: .07em;
     }
 
-    /* Header */
-
+    /* Header Styles */
     header {
         position: fixed;
         display: flex;
@@ -460,7 +444,6 @@ footer {
         background-color: #fff;
         color: #000;
         padding: 0;
-
     }
 
     .nav-menu label {
@@ -488,9 +471,7 @@ footer {
         flex-grow: 0;
     }
 
-    /* Hero */
-
-
+    /* Hero Styles */
     .hero-img-container {
         height: 75vh;
         background: url('../images/ayrton-seena-hero-1.webp') no-repeat center center/cover;
@@ -506,10 +487,9 @@ footer {
 
     figcaption {
         font-size: 4rem;
-
     }
 
-    /* Profile */
+    /* Profile Styles */
     .profile-intro h2 {
         max-width: 980px;
         font-size: 1.85rem;
@@ -522,7 +502,7 @@ footer {
         font-size: 1rem;
     }
 
-    /* Sign up */
+    /* Sign Up Styles */
     form {
         margin: 0 auto;
         max-width: 65%;
