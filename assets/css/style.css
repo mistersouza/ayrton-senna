@@ -62,15 +62,10 @@ body {
     font-size: 16px;
     max-width: 1170px;
     margin: 0 auto;
+    padding-top: 7rem;
 }
 
-main {
-    position: relative;
-    top: 106px;
-    min-height: 75vh;
-    overflow-y: hidden;
-    padding: 3rem 0;
-}
+main {}
 
 /* Header */
 header {
