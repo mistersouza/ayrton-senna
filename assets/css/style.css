@@ -41,6 +41,13 @@ h3 {
     text-transform: capitalize;
 }
 
+.headings-container {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1.5rem;
+    padding: 3rem 0;
+}
+
 /* Reset style for a */
 a {
     text-decoration: none;
@@ -152,7 +159,8 @@ nav a.active {
 }
 
 /* Styling for burger icon */
-.toggle-icon div {
+.toggle-icon span {
+    display: block;
     background-color: #000;
     width: 100%;
     height: 3px;
@@ -208,7 +216,7 @@ nav a.active {
     margin-bottom: 5rem;
 }
 
-figcaption {
+figure p {
     font-size: 2.5rem;
     font-weight: 700;
 }
@@ -484,7 +492,7 @@ footer {
         width: 75%;
     }
 
-    figcaption {
+    figure p {
         font-size: 4rem;
     }
 
