@@ -8,7 +8,7 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ## Contents
 
-[Planning & Development](https://github.com/mistersouza/ayrton-senna/README.md#planning--development)
+[Planning & Development](https://github.com/mistersouza/ayrton-senna#planning--development)
 
 [Features](https://github.com/mistersouza/ayrton-senna/README.md#feature)
 
