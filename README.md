@@ -8,20 +8,20 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ## Contents
 
-[Planning & Development](https://github.com#planning--development)
+[Planning & Development](https://github.com/mistersouza/ayrton-senna/README.md#planning--development)
 
-[Features](https://github.com/#features)
+[Features](https://github.com/mistersouza/ayrton-senna/README.md#feature)
 
-[Testing](https://github.com/#testing)
+[Testing](https://github.com/mistersouza/ayrton-senna/README.md/#testing)
 
-[Deployment](https://github.com/#deployment)
+[Deployment](https://github.com/mistersouza/ayrton-senna/README.md#deployment)
 
-[Languages](https://github.com/#languages)
+[Languages](https://github.com/mistersouza/ayrton-senna/README.md#languages)
 
-[Software](https://github.com/#software)
+[Software](https://github.com/mistersouza/ayrton-senna/README.md#software)
 
-[Media](https://github.com/davidcalikes/d#media)
+[Media](https://github.com/mistersouza/ayrton-senna/README.md#media)
 
-[Credits](https://github.com/davidcalikes/#credits)
+[Credits](https://github.com/mistersouza/ayrton-senna/README.md#credits)
 
 ## Planning & Development
