@@ -1,6 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+/* Reset some default styles for consistency */
 * {
     margin: 0;
     padding: 0;
@@ -143,9 +144,9 @@ nav li {
 
 /* Styling for Navigation List Items on Hover */
 
-.nav-container a:hover,
-nav a:hover {
+.nav-container a:hover {
     color: #565656;
+    transition: all .3s;
 }
 
 nav a.active {
@@ -153,6 +154,31 @@ nav a.active {
     transition: color 0.4s ease;
 }
 
+/* Styling for burger icon */
+
+.toggle-icon div {
+    background-color: #000;
+    width: 100%;
+    height: 3px;
+    transition: all .2s;
+}
+
+.toggle-icon {
+    position: absolute;
+    z-index: 99;
+    top: 73px;
+    right: 20px;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.bar-middle {
+    margin: 3px 0;
+}
+
+/* Get rid of checkbox */
 #nav-toggle {
     display: none;
 }
@@ -160,6 +186,22 @@ nav a.active {
 #nav-toggle:checked~nav {
     display: block;
 }
+
+#nav-toggle:checked~.toggle-icon>.bar-top {
+    transform: rotate(135deg);
+    margin-top: 8px;
+}
+
+#nav-toggle:checked~.toggle-icon>.bar-middle {
+    opacity: 0;
+}
+
+#nav-toggle:checked~.toggle-icon>.bar-bottom {
+    transform: rotate(-135deg);
+    margin-top: -12px;
+}
+
+
 
 /* Hero */
 
@@ -341,6 +383,7 @@ fieldset {
     justify-content: space-around;
     border: none;
 }
+
 
 legend {
     position: absolute;
