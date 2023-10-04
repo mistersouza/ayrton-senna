@@ -36,14 +36,13 @@ _These strategic pathways collectively validate the website's business relevance
 
 + __Motorsport Tourism and Event Promotion:__ Promote motorsport-related experiences and events for revenue generation.
 
-
-### The target audience for the above website would include
+### Audience
 
 _The target audience for the above website would include:_
 
-1. <details><summary>Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.
+1. <details><summary>Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.</details>
 
-2. <details><summary>History Buffs:__ Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.
+2. <details><summary>History Buffs:__ Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.</details>
 
 3. <details><summary>Inspiration Seekers</summary> Users looking for inspirational stories and life lessons from Ayrton Senna's journey to success.</details>
 
@@ -136,4 +135,9 @@ We've opted for a single font family to maintain a sleek and uniform design foun
 
 ## Features
 
-### Check out the current site features as well as potential additions for the future
+Check out the current site features as well as potential additions for the future
+
+### Navigation Bar
+<img src="assets/images/readme/memorial-header.webp"><img src="assets/images/readme/memorial-header-mobile.webp">
+
+
