@@ -6,7 +6,7 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ![Website at diffeent breakpoints](assets/images/readme/memorial-breakpoints.webp)
 
-## Contents
+## Contents 📜
 
 [Planning & Development](https://github.com/mistersouza/ayrton-senna#planning--development)
 
