@@ -151,6 +151,6 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
 _The hero section is designed to clarify the subject and instantly convey the website's purpose to users_
 
 + This section offers two distinct images for various screen breakpoints.
-                                                   |                 
-:--------------------------------------------------|----------------------------------------------------------:
-<img src="assets/images/readme/memorial-hero.webp">| <img src="assets/images/readme/memorial-hero-mobile.webp">
+                 
+|---------------------------------------------------|----------------------------------------------------------|
+|<img src="assets/images/readme/memorial-hero.webp">|<img src="assets/images/readme/memorial-hero-mobile.webp">|
