@@ -108,6 +108,8 @@ _The approach guarantees alignment with both business strategies and user storie
 + Maintain easy navigation, intuitive design, and design consistency.
 + Include a subscription method for users to join a mailing list.
 
-### Wirefware to design resposive layouts. These wireframes provide a clear site structure and content organization.
+### wireframe
 
-[x] [Resposive layout] <img src="assets/images/readme/memorial-wireframe.webp">
+I've selected Balsamiq software to create responsive layouts. These wireframes offer a well-defined site structure and organized content presentation.
+
++ [x] [responsive layout] <img src="assets/images/readme/memorial-wireframe.webp">
