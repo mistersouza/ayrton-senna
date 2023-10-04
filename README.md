@@ -145,7 +145,10 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
   + Each link offers a hover effect to give users visual feedback.
   + Every section has its dedicated active class, providing users with immediate feedback about their current location on the site.
 
-<img src="assets/images/readme/memorial-header.webp"> <img src="assets/images/readme/memorial-header-mobile.webp">
+![Header on large screen]<img src="assets/images/readme/memorial-header.webp"> ![Header on small screen]<img src="assets/image## Hero
 
-### Hero
+_The hero section is designed to clarify the subject and instantly convey the website's purpose to users_
 
++ This section offers two distinct images for various screen breakpoints.
+
+![Hero on large screen]<img src="assets/images/readme/memorial-hero.webp"> ![Hero on small screen]<img src="assets/images/readme/memorial-hero-mobile.webp">
