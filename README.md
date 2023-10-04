@@ -194,3 +194,8 @@ _This project is set to keep evolving as I go on on my developer path and forge 
 
 + I'm in the process of beefing up the embedded script to make the website fully interactive_
 
+## Deployment
+
+_We pushed the site live on GitHub Pages._
+
++ check it out [here](https://mistersouza.github.io/ayrton-senna/)
