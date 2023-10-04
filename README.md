@@ -112,4 +112,6 @@ _The approach guarantees alignment with both business strategies and user storie
 
 I've selected Balsamiq software to create responsive layouts. These wireframes offer a well-defined site structure and organized content presentation.
 
-+ [x] [responsive layout] <img src="assets/images/readme/memorial-wireframe.webp">
+<img src="assets/images/readme/memorial-wireframe.webp">
+
+### Color Scheme
