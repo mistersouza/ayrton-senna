@@ -28,14 +28,13 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ### Business Strategy
 
-+ __Continued Brand Promotion and Sponsorship__ Leverage Senna's iconic image for brand recognition and partnerships.
++ __Continued Brand Promotion and Sponsorship:__ Leverage Senna's iconic image for brand recognition and partnerships.
 
-+ __Educational and Charitable Initiatives__ Support educational and charitable initiatives tied to Senna's legacy.
++ __Educational and Charitable Initiatives:__ Support educational and charitable initiatives tied to Senna's legacy.
 
-+ __Motorsport Tourism and Event Promotion__ Promote motorsport-related experiences and events for revenue generation.
++ __Motorsport Tourism and Event Promotion:__ Promote motorsport-related experiences and events for revenue generation.
 
 These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact.
-
 
 ### The target audience for the above website would include
 
@@ -58,3 +57,11 @@ These strategic pathways collectively validate the website's business relevance,
 9. __Media and Journalists:__ Users members of press and media outlets looking for information and stories related to Ayrton Senna for reporting or documentary purposes.
 
 10. __General Public:__ Any user curious about Ayrton Senna's life, career, and impact, including those seeking to participate in community discussions or events related to his legacy.
+
+### User Stories
+
++ __Business Partner Perspective:__ As user, I want to explore how I can associate my brand or company with Ayrton Senna's legacy for strategic marketing and sponsorship opportunities.
++ __Educational User Perspective:__ As user, I want to access comprehensive sports history and leadership studies resources available on the website, enhancing the learning experience for students and scholars.
++ __Racing Enthusiast Perspective:__ As user, I want to delve into Ayrton Senna's illustrious racing career, reliving his iconic moments and understanding his impact on the world of motorsports.
++ __Inspiration Seeker Perspective:__ As user, I want to explore how Ayrton Senna's life and principles continue to influence people from diverse fields, empowering them to strive for excellence.
++ __Community Engagement Perspective:__ As user, I want to contribute my personal stories and experiences related to Ayrton Senna, fostering a sense of community and shared appreciation for his legacy.
