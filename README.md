@@ -4,7 +4,7 @@ Ayrton Senna transcended the boundaries of motorsport with his exceptional skill
 
 In honor of this remarkable hero, a beautifully crafted memorial website has been curated, offering a poignant tribute that befits his monumental stature. This memorial website stands as a testament to Senna's enduring legacy.
 
-<img src="assets/images/readme/memorial-breakpoints.webp">
+![Website at diffeent breakpoints](assets/images/readme/memorial-breakpoints.webp)
 
 ## Contents
 
@@ -111,13 +111,13 @@ _The approach guarantees alignment with both business strategies and user storie
 
 We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
 
-<img src="assets/images/readme/memorial-wireframe.webp">
+![Wireframe screenshot](assets/images/readme/memorial-wireframe.webp)
 
 ### Color Scheme
 
 We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
 
-<img src="assets/images/readme/memorial-color-scheme.webp">
+![Grayscale color scheme](assets/images/readme/memorial-color-scheme.webp)
 
 ### Typography
 
@@ -131,7 +131,7 @@ We've opted for a single font family to maintain a sleek and uniform design foun
   + SemiBold
   + Bold
 
-<img src="assets/images/readme/memorial-font-family.webp">
+![Font-family](assets/images/readme/memorial-font-family.webp) 
 
 ## Features
 
@@ -145,7 +145,7 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
   + Each link offers a hover effect to give users visual feedback.
   + Every section has its dedicated active class, providing users with immediate feedback about their current location on the site.
 
-<img src="assets/images/readme/memorial-header.webp">
+[Header screenshot](assets/images/readme/memorial-header.webp)
 
 ### Hero
 
@@ -153,7 +153,7 @@ _The hero section is designed to clarify the subject and instantly convey the we
 
 + This section offers two distinct images for various screen breakpoints.
                  
-<img src="assets/images/readme/memorial-hero.webp">
+![Hero section screenshop](assets/images/readme/memorial-hero.webp)
 
 ### Profile
 
@@ -179,3 +179,11 @@ _This section invites users to join the mission._
 + The form in this section will validate user input against HTML5 guidelines.
 
 ![Singup form screenshot](assets/images/readme/memorial-signup.webp)
+
+### Footer
+
+_Last but not least, this section displays links to social networks._
+
++ The links open in new tabs and feature descriptive arial-label attributes to improve accessibility.
+
+![Footer screenhot](assets/images/readme/memorial-footer.webp)
