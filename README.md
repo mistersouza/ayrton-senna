@@ -28,7 +28,7 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ### Business Strategy
 
-_These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact._
+_These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact.
 
 + __Continued Brand Promotion and Sponsorship:__ Leverage Senna's iconic image for brand recognition and partnerships.
 
@@ -96,7 +96,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 
 ### Approach
 
-_The approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience._
+_The approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience.
 
 + Present information logically based on research and planning.
 + Design the site with user experience principles in mind.
@@ -109,19 +109,19 @@ _The approach guarantees alignment with both business strategies and user storie
 
 ### wireframe
 
-We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
+_We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
 
 ![Wireframe screenshot](assets/images/readme/memorial-wireframe.webp)
 
 ### Color Scheme
 
-We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
+_We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
 
 ![Grayscale color scheme](assets/images/readme/memorial-color-scheme.webp)
 
 ### Typography
 
-We've opted for a single font family to maintain a sleek and uniform design foundation. However, our forward-looking strategy includes exploring custom fonts down the road. This exploration will come after conducting extensive UX research, refining our business objectives, and forging strong partnerships. Our aim is to enhance the website's uniqueness and user experience by selecting fonts that align seamlessly with our design and audience preferences.
+_We've opted for a single font family to maintain a sleek and uniform design foundation. However, our forward-looking strategy includes exploring custom fonts down the road. This exploration will come after conducting extensive UX research, refining our business objectives, and forging strong partnerships. Our aim is to enhance the website's uniqueness and user experience by selecting fonts that align seamlessly with our design and audience preferences.
 
 + Montserrat
   + Thin
@@ -131,7 +131,7 @@ We've opted for a single font family to maintain a sleek and uniform design foun
   + SemiBold
   + Bold
 
-![Font-family](assets/images/readme/memorial-font-family.webp) 
+![Font-family](assets/images/readme/memorial-font-family.webp)
 
 ## Features
 
@@ -139,20 +139,20 @@ Check out the current site features as well as potential additions for the futur
 
 ### Header
 
-_The Header is responsive and always fixed at the top, ensuring it guides users seamlessly through all sections of the website._
+_The Header is responsive and always fixed at the top, ensuring it guides users seamlessly through all sections of the website.
 
 + Features navigation links
   + Each link offers a hover effect to give users visual feedback.
   + Every section has its dedicated active class, providing users with immediate feedback about their current location on the site.
 
-[Header screenshot](assets/images/readme/memorial-header.webp)
+![Header screenshot](assets/images/readme/memorial-header.webp)
 
 ### Hero
 
-_The hero section is designed to clarify the subject and instantly convey the website's purpose to users_
+_The hero section is designed to clarify the subject and instantly convey the website's purpose to users
 
 + This section offers two distinct images for various screen breakpoints.
-                 
+  
 ![Hero section screenshop](assets/images/readme/memorial-hero.webp)
 
 ### Profile
@@ -170,7 +170,6 @@ _This section highlights Ayrton Senna's genius behind the wheel._
 + The link on the section opens the Getty Images page in a new tab.
 
 ![Gallery section screenshot](assets/images/readme/memorial-gallery.webp)
-
 
 ### Sing Up
 
@@ -190,9 +189,9 @@ _Last but not least, this section displays links to social networks._
 
 ## Future Features
 
-_This project is set to keep evolving as I go on on my developer path and forge partnerships along the way._
+_This project is set to keep evolving as I go on on my developer path and forge partnerships along the way.
 
-+ I'm in the process of beefing up the embedded script to make the website fully interactive_
++ I'm in the process of beefing up the embedded script to make the website fully interactive
 
 ## Deployment
 
@@ -200,11 +199,21 @@ _We pushed the site live on GitHub Pages._
 
 + check it out [here](https://mistersouza.github.io/ayrton-senna/)
 
-## Languages
+## Tech
 
-_Web trinity_
+### Languages
+
+_Web trinity
 
 + HTML
 + CSS
 + JS
 
+### Software
+
+_Toolkit
+
++ VS Code, coding
++ Balsamiq, designing
++ Git, version controlling
++ GitHub, sharing, deploying, and other cool stuff
