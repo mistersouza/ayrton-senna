@@ -161,5 +161,21 @@ _This section offers users insight into Ayrton Senna's life._
 
 + The link on the section opens the Wikipedia page in a new tab.
 
-<img src="assets/images/readme/memorial-profile.webp">
+![Profile section screenshot](assets/images/readme/memorial-profile.webp)
 
+### Gallery
+
+_This section highlights Ayrton Senna's genius behind the wheel._
+
++ The link on the section opens the Getty Images page in a new tab.
+
+![Gallery section screenshot](assets/images/readme/memorial-gallery.webp)
+
+
+### Sing Up
+
+_This section invites users to join the mission._
+
++ The form in this section will validate user input against HTML5 guidelines.
+
+![Singup form screenshot](assets/images/readme/memorial-signup.webp)
