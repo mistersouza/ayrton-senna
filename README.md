@@ -75,25 +75,25 @@ _These user stories support the website's business strategy, ensuring an engagin
 
 _These succinct objectives outline the website's core purposes and strategic focus._
 
-1. <details><summary>__Legacy Recognition__ </summary>Elevate Ayrton Senna's global recognition and preserve his legacy.<details>
+1. <details><summary>Legacy Recognition</summary>Elevate Ayrton Senna's global recognition and preserve his legacy.</details>
 
-1. __User-Friendly:__ Create an engaging and clear website experience.
+2. <details><summary>User-Friendly</summary>Create an engaging and clear website experience.</details>
 
-2. __Event Promotion:__ Inform about upcoming events and activities.
+3. <details><summary>Event Promotion</summary> Inform about upcoming events and activities.</details>
 
-3. __Charitable Support:__ Drive support for charitable causes linked to Ayrton Senna.
+4. <details><summary>Charitable Support</summary>Drive support for charitable causes linked to Ayrton Senna.</details>
 
-4. __Inspiration Hub:__ Showcase Ayrton Senna's career and inspire new generations.
+5. <details><summary>Inspiration Hub</summary>Showcase Ayrton Senna's career and inspire new generations.</details>
 
-5. __Industry Reference:__ Serve as a go-to EPK for motorsports professionals.
+6. <details><summary>Industry Reference</summary>Serve as a go-to EPK for motorsports professionals.</details>
 
-6. __Exclusive Content:__ Offer unique media to enrich the user experience.
+7. <details><summary>Exclusive Content</summary>Offer unique media to enrich the user experience.</details>
 
-7. __Community Growth:__ Expand the fanbase and foster community spirit.
+8. <details><summary>Community Growth</summary>Expand the fanbase and foster community spirit.</details>
 
-8. __Educational Resource:__ Provide valuable sports history and leadership studies material.
+9. <details><summary>Educational Resource</summary>Provide valuable sports history and leadership studies material.</details>
 
-9.  __Audience Engagement:__ Enable user subscriptions for updates and news.
+10. <details><summary>Audience Engagement</summary> Enable user subscriptions for updates and news.</details>
 
 ### Approach
 
