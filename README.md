@@ -115,3 +115,7 @@ I've selected Balsamiq software to create responsive layouts. These wireframes o
 <img src="assets/images/readme/memorial-wireframe.webp">
 
 ### Color Scheme
+
+I've opted for a grayscale color scheme in the early design phase to prioritize content structure and user experience. Accent colors will be chosen later, following thorough UX research, to ensure they enhance the overall design and user interaction effectively.
+
+<img src="assets/images/readme/memorial-color-scheme.webp">
