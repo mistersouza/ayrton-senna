@@ -143,7 +143,7 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
 
 + Features navigation links
   + Each link offers a hover effect to give users visual feedback.
-  + Every section its dedicated active class, providing users with immediate feedback about their current location on the site.
+  + Every section has its dedicated active class, providing users with immediate feedback about their current location on the site.
 
 <img src="assets/images/readme/memorial-header.webp"> <img src="assets/images/readme/memorial-header-mobile.webp">
 
