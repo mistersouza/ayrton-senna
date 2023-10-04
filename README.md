@@ -75,7 +75,11 @@ _These user stories support the website's business strategy, ensuring an engagin
 
 _These succinct objectives outline the website's core purposes and strategic focus._
 
-1. __Legacy Recognition:__ Elevate Ayrton Senna's global recognition and preserve his legacy.
+1. <details>
+
+<summary>__Legacy Recognition:__ </summary>
+Elevate Ayrton Senna's global recognition and preserve his legacy.
+<details>
 
 2. __User-Friendly:__ Create an engaging and clear website experience.
 
@@ -110,19 +114,19 @@ _The approach guarantees alignment with both business strategies and user storie
 
 ### wireframe
 
-I've selected Balsamiq software to create responsive layouts. These wireframes offer a well-defined site structure and organized content presentation.
+We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
 
 <img src="assets/images/readme/memorial-wireframe.webp">
 
 ### Color Scheme
 
-I've opted for a grayscale color scheme in the early design phase to prioritize content structure and user experience. Accent colors will be chosen later, following thorough UX research, to ensure they enhance the overall design and user interaction effectively.
+We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
 
 <img src="assets/images/readme/memorial-color-scheme.webp">
 
 ### Typography
 
-Our current choice of a single font family serves the purpose of establishing a clean and consistent design framework. Nevertheless, our strategic vision involves delving into custom fonts in the future, following comprehensive UX research and a refinement of our business objectives in collaboration with our valued partners. This approach is geared towards elevating the website's distinctiveness and user experience by selecting fonts that seamlessly align with our design and audience preferences. 
+We've opted for a single font family to maintain a sleek and uniform design foundation. However, our forward-looking strategy includes exploring custom fonts down the road. This exploration will come after conducting extensive UX research, refining our business objectives, and forging strong partnerships. Our aim is to enhance the website's uniqueness and user experience by selecting fonts that align seamlessly with our design and audience preferences.
 
 + Montserrat
   + Thin
@@ -133,3 +137,7 @@ Our current choice of a single font family serves the purpose of establishing a 
   + Bold
 
 <img src="assets/images/readme/memorial-font-family.webp">
+
+## Features
+
+### Check out the current site features as well as potential additions for the future
