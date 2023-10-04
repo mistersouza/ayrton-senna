@@ -75,29 +75,25 @@ _These user stories support the website's business strategy, ensuring an engagin
 
 _These succinct objectives outline the website's core purposes and strategic focus._
 
-1. <details>
+1. <details><summary>__Legacy Recognition__ </summary>Elevate Ayrton Senna's global recognition and preserve his legacy.<details>
 
-<summary>__Legacy Recognition:__ </summary>
-Elevate Ayrton Senna's global recognition and preserve his legacy.
-<details>
+1. __User-Friendly:__ Create an engaging and clear website experience.
 
-2. __User-Friendly:__ Create an engaging and clear website experience.
+2. __Event Promotion:__ Inform about upcoming events and activities.
 
-3. __Event Promotion:__ Inform about upcoming events and activities.
+3. __Charitable Support:__ Drive support for charitable causes linked to Ayrton Senna.
 
-4. __Charitable Support:__ Drive support for charitable causes linked to Ayrton Senna.
+4. __Inspiration Hub:__ Showcase Ayrton Senna's career and inspire new generations.
 
-5. __Inspiration Hub:__ Showcase Ayrton Senna's career and inspire new generations.
+5. __Industry Reference:__ Serve as a go-to EPK for motorsports professionals.
 
-6. __Industry Reference:__ Serve as a go-to EPK for motorsports professionals.
+6. __Exclusive Content:__ Offer unique media to enrich the user experience.
 
-7. __Exclusive Content:__ Offer unique media to enrich the user experience.
+7. __Community Growth:__ Expand the fanbase and foster community spirit.
 
-8. __Community Growth:__ Expand the fanbase and foster community spirit.
+8. __Educational Resource:__ Provide valuable sports history and leadership studies material.
 
-9. __Educational Resource:__ Provide valuable sports history and leadership studies material.
-
-10. __Audience Engagement:__ Enable user subscriptions for updates and news.
+9.  __Audience Engagement:__ Enable user subscriptions for updates and news.
 
 ### Approach
 
