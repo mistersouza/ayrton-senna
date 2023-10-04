@@ -28,15 +28,18 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 ### Business Strategy
 
+_These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact._
+
 + __Continued Brand Promotion and Sponsorship:__ Leverage Senna's iconic image for brand recognition and partnerships.
 
 + __Educational and Charitable Initiatives:__ Support educational and charitable initiatives tied to Senna's legacy.
 
 + __Motorsport Tourism and Event Promotion:__ Promote motorsport-related experiences and events for revenue generation.
 
-These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact.
 
 ### The target audience for the above website would include
+
+_The target audience for the above website would include:_
 
 1. __Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.
 
@@ -65,3 +68,27 @@ These strategic pathways collectively validate the website's business relevance,
 + __Racing Enthusiast Perspective:__ As user, I want to delve into Ayrton Senna's illustrious racing career, reliving his iconic moments and understanding his impact on the world of motorsports.
 + __Inspiration Seeker Perspective:__ As user, I want to explore how Ayrton Senna's life and principles continue to influence people from diverse fields, empowering them to strive for excellence.
 + __Community Engagement Perspective:__ As user, I want to contribute my personal stories and experiences related to Ayrton Senna, fostering a sense of community and shared appreciation for his legacy.
+
+### Site Objectives
+
+_These succinct objectives outline the website's core purposes and strategic focus._
+
+1. __Legacy Recognition:__ Elevate Ayrton Senna's global recognition and preserve his legacy.
+
+2. __User-Friendly:__ Create an engaging and clear website experience.
+
+3. __Event Promotion:__ Inform about upcoming events and activities.
+
+4. __Charitable Support:__ Drive support for charitable causes linked to Ayrton Senna.
+
+5. __Inspiration Hub:__ Showcase Ayrton Senna's career and inspire new generations.
+
+6. __Industry Reference:__ Serve as a go-to EPK for motorsports professionals.
+
+7. __Exclusive Content:__ Offer unique media to enrich the user experience.
+
+8. __Community Growth:__ Expand the fanbase and foster community spirit.
+
+9. __Educational Resource:__ Provide valuable sports history and leadership studies material.
+
+10. __Audience Engagement:__ Enable user subscriptions for updates and news.
