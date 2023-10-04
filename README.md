@@ -63,6 +63,8 @@ _The target audience for the above website would include:_
 
 ### User Stories
 
+_These user stories support the website's business strategy, ensuring an engaging and valuable experience for all target audiences._
+
 + __Business Partner Perspective:__ As user, I want to explore how I can associate my brand or company with Ayrton Senna's legacy for strategic marketing and sponsorship opportunities.
 + __Educational User Perspective:__ As user, I want to access comprehensive sports history and leadership studies resources available on the website, enhancing the learning experience for students and scholars.
 + __Racing Enthusiast Perspective:__ As user, I want to delve into Ayrton Senna's illustrious racing career, reliving his iconic moments and understanding his impact on the world of motorsports.
@@ -92,3 +94,16 @@ _These succinct objectives outline the website's core purposes and strategic foc
 9. __Educational Resource:__ Provide valuable sports history and leadership studies material.
 
 10. __Audience Engagement:__ Enable user subscriptions for updates and news.
+
+### Approach
+
+_The following approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience._
+
++ Present information logically based on research and planning.
++ Design the site with user experience principles in mind.
++ Offer users links to book tickets for events.
++ Provide map links for venue locations and the option to add gig dates to Google Calendar.
++ Grant access to exclusive media content, including embedded audio files, YouTube videos, and a photo gallery.
++ Ensure that the site's content is inoffensive and accessible to all.
++ Maintain easy navigation, intuitive design, and design consistency.
++ Include a subscription method for users to join a mailing list.
