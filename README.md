@@ -97,7 +97,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 
 ### Approach
 
-_The following approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience._
+_The approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience._
 
 + Present information logically based on research and planning.
 + Design the site with user experience principles in mind.
@@ -107,3 +107,7 @@ _The following approach guarantees alignment with both business strategies and u
 + Ensure that the site's content is inoffensive and accessible to all.
 + Maintain easy navigation, intuitive design, and design consistency.
 + Include a subscription method for users to join a mailing list.
+
+### Wirefware to design resposive layouts. These wireframes provide a clear site structure and content organization.
+
+[x] [Resposive layout] <img src="assets/images/readme/memorial-wireframe.webp">
