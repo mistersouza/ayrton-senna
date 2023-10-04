@@ -187,3 +187,10 @@ _Last but not least, this section displays links to social networks._
 + The links open in new tabs and feature descriptive arial-label attributes to improve accessibility.
 
 ![Footer screenhot](assets/images/readme/memorial-footer.webp)
+
+## Future Features
+
+_This project is set to keep evolving as I go on on my developer path and forge partnerships along the way._
+
++ I'm in the process of beefing up the embedded script to make the website fully interactive_
+
