@@ -41,25 +41,25 @@ _These strategic pathways collectively validate the website's business relevance
 
 _The target audience for the above website would include:_
 
-1. __Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.
+1. <details><summary>Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.
 
-2. __History Buffs:__ Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.
+2. <details><summary>History Buffs:__ Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.
 
-3. __Inspiration Seekers:__ Users looking for inspirational stories and life lessons from Ayrton Senna's journey to success.
+3. <details><summary>Inspiration Seekers</summary> Users looking for inspirational stories and life lessons from Ayrton Senna's journey to success.</details>
 
-4. __Collectors and Memorabilia Enthusiasts:__ Users interested in purchasing or collecting memorabilia related to Ayrton Senna, such as merchandise or rare artifacts.
+4. <details><summary>Collectors and Memorabilia Enthusiasts</summary> Users interested in purchasing or collecting memorabilia related to Ayrton Senna, such as merchandise or rare artifacts.</details>
 
-5. __Educational Institutions:__ Users, including members of schools, colleges, and universities, who may want to utilize the website as an educational resource for sports history or leadership studies.
+5. <details><summary>Educational Institutions</summary> Users, including members of schools, colleges, and universities, who may want to utilize the website as an educational resource for sports history or leadership studies.</details>
 
-6. __Tourists and Travelers:__ Users visiting locations associated with Ayrton Senna, such as his hometown or places of significance in his life.
+6. <details><summary>Tourists and Travelers</summary> Users visiting locations associated with Ayrton Senna, such as his hometown or places of significance in his life.</details>
 
-7. __Sponsors and Marketers:__ Users associated with brands or companies interested in aligning themselves with Ayrton Senna's legacy for marketing or sponsorship opportunities.
+7. <details><summary>Sponsors and Marketers</summary> Users associated with brands or companies interested in aligning themselves with Ayrton Senna's legacy for marketing or sponsorship opportunities.</details>
 
-8. __Charities and Nonprofits:__ Users head of organizations aligned with Ayrton Senna's values and causes, seeking to collaborate or receive support.
+8. <details><summary>Charities and Nonprofits</summary> Users head of organizations aligned with Ayrton Senna's values and causes, seeking to collaborate or receive support.</details>
 
-9. __Media and Journalists:__ Users members of press and media outlets looking for information and stories related to Ayrton Senna for reporting or documentary purposes.
+9. <details><summary>Media and Journalists</summary> Users members of press and media outlets looking for information and stories related to Ayrton Senna for reporting or documentary purposes.</details>
 
-10. __General Public:__ Any user curious about Ayrton Senna's life, career, and impact, including those seeking to participate in community discussions or events related to his legacy.
+10. <details><summary>General Public</summary> Any user curious about Ayrton Senna's life, career, and impact, including those seeking to participate in community discussions or events related to his legacy.</details>
 
 ### User Stories
 
