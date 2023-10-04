@@ -40,9 +40,9 @@ _These strategic pathways collectively validate the website's business relevance
 
 _The target audience for the above website would include:_
 
-1. <details><summary>Motorsport Enthusiasts:__ Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.</details>
+1. <details><summary>Motorsport Enthusiasts</summary> Users fans of Formula 1 and motorsport who admire Ayrton Senna and are interested in his career, achievements, and legacy.</details>
 
-2. <details><summary>History Buffs:__ Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.</details>
+2. <details><summary>History Buffs</summary>Users with an interest in the history of motorsport and iconic racing figures like Ayrton Senna.</details>
 
 3. <details><summary>Inspiration Seekers</summary> Users looking for inspirational stories and life lessons from Ayrton Senna's journey to success.</details>
 
@@ -137,7 +137,15 @@ We've opted for a single font family to maintain a sleek and uniform design foun
 
 Check out the current site features as well as potential additions for the future
 
-### Navigation Bar
-<img src="assets/images/readme/memorial-header.webp"><img src="assets/images/readme/memorial-header-mobile.webp">
+### Header
 
+_The Header is responsive and always fixed at the top, ensuring it guides users seamlessly through all sections of the website._
+
++ Features navigation links
+  + Each link offers a hover effect to give users visual feedback.
+  + Every section its dedicated active class, providing users with immediate feedback about their current location on the site.
+
+<img src="assets/images/readme/memorial-header.webp"> <img src="assets/images/readme/memorial-header-mobile.webp">
+
+### Hero
 
