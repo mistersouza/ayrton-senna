@@ -145,12 +145,21 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
   + Each link offers a hover effect to give users visual feedback.
   + Every section has its dedicated active class, providing users with immediate feedback about their current location on the site.
 
-:-----------------------------------------------------------------------------------------------------------------:
-<img src="assets/images/readme/memorial-header.webp">| <img src="assets/images/readme/memorial-header-mobile.webp">
+<img src="assets/images/readme/memorial-header.webp">
+
+### Hero
 
 _The hero section is designed to clarify the subject and instantly convey the website's purpose to users_
 
 + This section offers two distinct images for various screen breakpoints.
                  
-|---------------------------------------------------|----------------------------------------------------------|
-|<img src="assets/images/readme/memorial-hero.webp">|<img src="assets/images/readme/memorial-hero-mobile.webp">|
+<img src="assets/images/readme/memorial-hero.webp">
+
+### Profile
+
+_This section offers users insight into Ayrton Senna's life._
+
++ The link on the section opens the Wikipedia page in a new tab.
+
+<img src="assets/images/readme/memorial-profile.webp">
+
