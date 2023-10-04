@@ -199,3 +199,12 @@ _This project is set to keep evolving as I go on on my developer path and forge 
 _We pushed the site live on GitHub Pages._
 
 + check it out [here](https://mistersouza.github.io/ayrton-senna/)
+
+## Languages
+
+_Web trinity_
+
++ HTML
++ CSS
++ JS
+
