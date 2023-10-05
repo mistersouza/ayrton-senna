@@ -201,11 +201,10 @@ _These succinct objectives outline the website's core purposes and strategic foc
 
 + We've been rocking Google DevTools to check how our site dances in real-time, making sure it grooves smoothly on various devices browsers and connection speeds. Tho, no automatic test is in place right now, we've got every click and swipe covered to ensure it's all smooth sailing.
 
-### Validation
+### Validation ![Valid CSS](http://jigsaw.w3.org/css-validator/images/vcss-blue)
 
 + We've gone through every line of code with a fine-tooth comb, and guess what? The W3C validators gave us a thumbs-up across the board.
-![Valid CSS](http://jigsaw.w3.org/css-validator/images/vcss-blue)
-
+  
 ### Performance
 
 + Take a peek at what Lighthouse has to say. Of course, I'm addressing those gaps as part of my ongoing efforts.
