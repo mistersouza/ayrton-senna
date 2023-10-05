@@ -24,11 +24,13 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 [Credits](https://github.com/mistersouza/ayrton-senna/README.md#credits)
 
+<details><summary>▶<summary>
+
 ## Planning & Development
 
 ### Business Strategy
 
-_These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact.
+● These strategic pathways collectively validate the website's business relevance, as it not only pays homage to Ayrton Senna but also opens doors to a range of opportunities for growth and impact.
 
 + __Continued Brand Promotion and Sponsorship:__ Leverage Senna's iconic image for brand recognition and partnerships.
 
@@ -262,3 +264,5 @@ _Toolkit
   + Bugs terminator. He always make times, when there's no time at all.
 + Chat GPT, Mister know it all.
   + Documenting King. Not always correct, but frequently inspiring.
+
+</details>
