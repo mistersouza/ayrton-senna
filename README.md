@@ -207,7 +207,7 @@ _Testing at every stage of development, keeping it on point.
 
 ### Performance
 
-+ Take a peek at what Lighthouse has to say.
++ Take a peek at what Lighthouse has to say. Of course, I'm addressing those gaps as part of my ongoing efforts.
 ![Lighthouse perfomance report](assets/images/readme/memorial-performance.webp)
 
 ### Bug Fixes
@@ -242,3 +242,7 @@ _Toolkit
 + Balsamiq, designing
 + Git, version controlling
 + GitHub, sharing, deploying, and other cool stuff
+
+## Credits
+
+_Indeed, I've been the lone architect behind the planning, design, and code, but I couldn't have pulled it off without some helping hands. And honestly, I wouldn't want it any other way. The collaborative spirit of programming is truly one of the things I cherish the most about this journey.
