@@ -246,3 +246,19 @@ _Toolkit
 ## Credits
 
 _Indeed, I've been the lone architect behind the planning, design, and code, but I couldn't have pulled it off without some helping hands. And honestly, I wouldn't want it any other way. The collaborative spirit of programming is truly one of the things I cherish the most about this journey.
+
+### Inpired by
+
++ Code Institute's Coders Coffeehouse
++ Code Institute's [Love running](https://github.com/mistersouza/love_running.git)
++ Coding Tonight [Sidebar](https://youtu.be/GEREYh_hLSM?si=Hq_OLCJSe1S90TNc)
++ Kevin Powell [Color scheme](https://youtube.com/shorts/7PRSqUwAuis?si=Beb6d0w4ZshzCWMu)
+
+### Thanks
+
++ David Calikes, Code Institute Cohort Facilitator.
+  + Positive and Uplifting. David's Always available and boosts my confidence time we chat.
++ Oluwafemi Medale, Code Institute Mentor.
+  + Bugs terminator. He always make times, when there's no time at all.
++ Chat GPT, Mister know it all.
+  + Documenting King. Not always correct, but frequently inspiring.
