@@ -10,15 +10,15 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 [Planning & Development](https://github.com/mistersouza/ayrton-senna#planning--development)
 
-[Features](https://github.com/mistersouza/ayrton-senna/README.md#feature)
+[Features](https://github.com/mistersouza/ayrton-senna#feature)
 
-[Testing](https://github.com/mistersouza/ayrton-senna/README.md/#testing)
+[Testing](https://github.com/mistersouza/ayrton-senna#testing)
 
-[Deployment](https://github.com/mistersouza/ayrton-senna/README.md#deployment)
+[Deployment](https://github.com/mistersouza/ayrton-senna#deployment)
 
-[Languages](https://github.com/mistersouza/ayrton-senna/README.md#languages)
+[Languages](https://github.com/mistersouza/ayrton-senna#languages)
 
-[Software](https://github.com/mistersouza/ayrton-senna/README.md#software)
+[Software](https://github.com/mistersouza/ayrton-senna#software)
 
 [Media](https://github.com/mistersouza/ayrton-senna/README.md#media)
 
