@@ -204,6 +204,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 ### Validation
 
 + We've gone through every line of code with a fine-tooth comb, and guess what? The W3C validators gave us a thumbs-up across the board.
+![W3C CSS Validator results for TextArea (CSS level 3 + SVG)](http://jigsaw.w3.org/css-validator/check/referer)
 
 ### Performance
 
