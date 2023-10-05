@@ -199,7 +199,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 
 ### Assessment
 
-+ We've been rocking Google DevTools to check how our site dances in real-time, making sure it grooves smoothly on various devices and connection speeds. Tho, no automatic test is in place right now, we've got every click and swipe covered to ensure it's all smooth sailing.
++ We've been rocking Google DevTools to check how our site dances in real-time, making sure it grooves smoothly on various devices browsers and connection speeds. Tho, no automatic test is in place right now, we've got every click and swipe covered to ensure it's all smooth sailing.
 
 ### Validation
 
@@ -208,6 +208,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 ### Performance
 
 + Take a peek at what Lighthouse has to say. Of course, I'm addressing those gaps as part of my ongoing efforts.
+  
 ![Lighthouse perfomance report](assets/images/readme/memorial-performance.webp)
 
 ### Bug Fixes
