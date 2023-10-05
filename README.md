@@ -204,6 +204,8 @@ _These succinct objectives outline the website's core purposes and strategic foc
 ### Validation ![Valid CSS](http://jigsaw.w3.org/css-validator/images/vcss-blue)
 
 + We've gone through every line of code with a fine-tooth comb, and guess what? The W3C validators gave us a thumbs-up across the board.
+
+![Valid HTML](assets/images/readme/memorial-html-validator.webp)
   
 ### Performance
 
