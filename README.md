@@ -1,6 +1,6 @@
 # Ayrton Senna Memorial
 
-Ayrton Senna transcended the boundaries of motorsport with his exceptional skills, charismatic personality, and unwavering sportsmanship. The Brazilian F1 racing driver's illustrious career, highlighted by his three Formula 1 World Championships, represents only a fraction of his profound impact. Senna evolved into an enduring symbol of passion, dedication, and inspiration, captivating the hearts of motorsport enthusiasts and extending his influence far beyond the race track.
+▷ Ayrton Senna transcended the boundaries of motorsport with his exceptional skills, charismatic personality, and unwavering sportsmanship. The Brazilian F1 racing driver's illustrious career, highlighted by his three Formula 1 World Championships, represents only a fraction of his profound impact. Senna evolved into an enduring symbol of passion, dedication, and inspiration, captivating the hearts of motorsport enthusiasts and extending his influence far beyond the race track.
 
 In honor of this remarkable hero, a beautifully crafted memorial website has been curated, offering a poignant tribute that befits his monumental stature. This memorial website stands as a testament to Senna's enduring legacy.
 
@@ -62,7 +62,7 @@ _The target audience for the above website would include:_
 
 ### User Stories
 
-_These user stories support the website's business strategy, ensuring an engaging and valuable experience for all target audiences.
+● These user stories support the website's business strategy, ensuring an engaging and valuable experience for all target audiences.
 
 + __Business Partner Perspective:__ As user, I want to explore how I can associate my brand or company with Ayrton Senna's legacy for strategic marketing and sponsorship opportunities.
 + __Educational User Perspective:__ As user, I want to access comprehensive sports history and leadership studies resources available on the website, enhancing the learning experience for students and scholars.
@@ -96,7 +96,7 @@ _These succinct objectives outline the website's core purposes and strategic foc
 
 ### Approach
 
-_The approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience.
+● The approach guarantees alignment with both business strategies and user stories, prioritizing a seamless and user-centric experience.
 
 + Present information logically based on research and planning.
 + Design the site with user experience principles in mind.
@@ -109,19 +109,19 @@ _The approach guarantees alignment with both business strategies and user storie
 
 ### wireframe
 
-_We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
+● We've opted for Balsamiq software to design responsive layouts. These wireframes provide a clear site structure and organized content layout.
 
 ![Wireframe screenshot](assets/images/readme/memorial-wireframe.webp)
 
 ### Color Scheme
 
-_We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
+● We've chosen a grayscale color scheme during the initial design phase to prioritize content structure and the user experience. Accent colors will be selected after conducting comprehensive UX research to ensure they effectively enhance the overall design and user interaction.
 
 ![Grayscale color scheme](assets/images/readme/memorial-color-scheme.webp)
 
 ### Typography
 
-_We've opted for a single font family to maintain a sleek and uniform design foundation. However, our forward-looking strategy includes exploring custom fonts down the road. This exploration will come after conducting extensive UX research, refining our business objectives, and forging strong partnerships. Our aim is to enhance the website's uniqueness and user experience by selecting fonts that align seamlessly with our design and audience preferences.
+● We've opted for a single font family to maintain a sleek and uniform design foundation. However, our forward-looking strategy includes exploring custom fonts down the road. This exploration will come after conducting extensive UX research, refining our business objectives, and forging strong partnerships. Our aim is to enhance the website's uniqueness and user experience by selecting fonts that align seamlessly with our design and audience preferences.
 
 + Montserrat
   + Thin
@@ -135,11 +135,11 @@ _We've opted for a single font family to maintain a sleek and uniform design fou
 
 ## Features
 
-_Check out the current site features as well as potential additions for the future
+● Check out the current site features as well as potential additions for the future
 
 ### Header
 
-_The Header is responsive and always fixed at the top, ensuring it guides users seamlessly through all sections of the website.
+● The Header is responsive and always fixed at the top, ensuring it guides users seamlessly through all sections of the website.
 
 + Features navigation links
   + Each link offers a hover effect to give users visual feedback.
@@ -149,7 +149,7 @@ _The Header is responsive and always fixed at the top, ensuring it guides users 
 
 ### Hero
 
-_The hero section is designed to clarify the subject and instantly convey the website's purpose to users
+● The hero section is designed to clarify the subject and instantly convey the website's purpose to users
 
 + This section offers two distinct images for various screen breakpoints.
   
@@ -157,7 +157,7 @@ _The hero section is designed to clarify the subject and instantly convey the we
 
 ### Profile
 
-_This section offers users insight into Ayrton Senna's life._
+● This section offers users insight into Ayrton Senna's life.
 
 + The link on the section opens the Wikipedia page in a new tab.
 
@@ -165,7 +165,7 @@ _This section offers users insight into Ayrton Senna's life._
 
 ### Gallery
 
-_This section highlights Ayrton Senna's genius behind the wheel._
+● This section highlights Ayrton Senna's genius behind the wheel.
 
 + The link on the section opens the Getty Images page in a new tab.
 
@@ -173,7 +173,7 @@ _This section highlights Ayrton Senna's genius behind the wheel._
 
 ### Sing Up
 
-_This section invites users to join the mission._
+● This section invites users to join the mission.
 
 + The form in this section will validate user input against HTML5 guidelines.
 
@@ -181,7 +181,7 @@ _This section invites users to join the mission._
 
 ### Footer
 
-_Last but not least, this section displays links to social networks._
+● Last but not least, this section displays links to social networks.
 
 + The links open in new tabs and feature descriptive arial-label attributes to improve accessibility.
 
@@ -189,13 +189,13 @@ _Last but not least, this section displays links to social networks._
 
 ## Future Features
 
-_This project is set to keep evolving as I go on on my developer path and forge partnerships along the way.
+● This project is set to keep evolving as I go on on my developer path and forge partnerships along the way.
 
 + I'm in the process of beefing up the embedded script to make the website fully interactive
 
 ## Testing 🔎
 
-_Testing at every stage of development, keeping it on point.
+● Testing at every stage of development, keeping it on point.
 
 ### Assessment
 
@@ -220,7 +220,7 @@ _Testing at every stage of development, keeping it on point.
   
 ## Deployment 🚀
 
-_We pushed the site live on GitHub Pages.
+● We pushed the site live on GitHub Pages.
 
 + check it out [here](https://mistersouza.github.io/ayrton-senna/)
 
@@ -245,7 +245,7 @@ _Toolkit
 
 ## Credits
 
-_Indeed, I've been the lone architect behind the planning, design, and code, but I couldn't have pulled it off without some helping hands. And honestly, I wouldn't want it any other way. The collaborative spirit of programming is truly one of the things I cherish the most about this journey.
+● Indeed, I've been the lone architect behind the planning, design, and code, but I couldn't have pulled it off without some helping hands. And honestly, I wouldn't want it any other way. The collaborative spirit of programming is truly one of the things I cherish the most about this journey.
 
 ### Inpired by
 
