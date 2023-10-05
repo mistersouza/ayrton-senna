@@ -24,8 +24,6 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 [Credits](https://github.com/mistersouza/ayrton-senna/README.md#credits)
 
-<details><summary>▶<summary>
-
 ## Planning & Development
 
 ### Business Strategy
@@ -264,5 +262,3 @@ _Toolkit
   + Bugs terminator. He always make times, when there's no time at all.
 + Chat GPT, Mister know it all.
   + Documenting King. Not always correct, but frequently inspiring.
-
-</details>
