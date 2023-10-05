@@ -10,7 +10,7 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 [Planning & Development](https://github.com/mistersouza/ayrton-senna#planning--development)
 
-[Features](https://github.com/mistersouza/ayrton-senna#feature)
+[Features](https://github.com/mistersouza/ayrton-senna#features)
 
 [Testing](https://github.com/mistersouza/ayrton-senna#testing)
 
@@ -62,7 +62,7 @@ _The target audience for the above website would include:_
 
 ### User Stories
 
-_These user stories support the website's business strategy, ensuring an engaging and valuable experience for all target audiences._
+_These user stories support the website's business strategy, ensuring an engaging and valuable experience for all target audiences.
 
 + __Business Partner Perspective:__ As user, I want to explore how I can associate my brand or company with Ayrton Senna's legacy for strategic marketing and sponsorship opportunities.
 + __Educational User Perspective:__ As user, I want to access comprehensive sports history and leadership studies resources available on the website, enhancing the learning experience for students and scholars.
@@ -135,7 +135,7 @@ _We've opted for a single font family to maintain a sleek and uniform design fou
 
 ## Features
 
-Check out the current site features as well as potential additions for the future
+_Check out the current site features as well as potential additions for the future
 
 ### Header
 
@@ -193,13 +193,30 @@ _This project is set to keep evolving as I go on on my developer path and forge 
 
 + I'm in the process of beefing up the embedded script to make the website fully interactive
 
-## Deployment
+## Testing 🔎
 
-_We pushed the site live on GitHub Pages._
+_Testing at every stage of development, keeping it on point.
+
+### Assessment
+
++ We've been rocking Google DevTools to check how our site dances in real-time, making sure it grooves smoothly on various devices and connection speeds. Tho, no automatic test is in place right now, we've got every click and swipe covered to ensure it's all smooth sailing.
+
+### Validation
+
++ We've gone through every line of code with a fine-tooth comb, and guess what? The W3C validators gave us a thumbs-up across the board.
+
+### Performance
+
++ Take a peek at what Lighthouse has to say.
+![Lighthouse perfomance report](assets/images/readme/memorial-performance.webp)
+
+## Deployment 🚀
+
+_We pushed the site live on GitHub Pages.
 
 + check it out [here](https://mistersouza.github.io/ayrton-senna/)
 
-## Tech
+## Tech 🛠️
 
 ### Languages
 
