@@ -1,4 +1,4 @@
-# Ayrton Senna Memorial
+# Ayrton Senna Memorial 🏁
 
 ▷ Ayrton Senna transcended the boundaries of motorsport with his exceptional skills, charismatic personality, and unwavering sportsmanship. The Brazilian F1 racing driver's illustrious career, highlighted by his three Formula 1 World Championships, represents only a fraction of his profound impact. Senna evolved into an enduring symbol of passion, dedication, and inspiration, captivating the hearts of motorsport enthusiasts and extending his influence far beyond the race track.
 
@@ -36,7 +36,7 @@ In honor of this remarkable hero, a beautifully crafted memorial website has bee
 
 + __Motorsport Tourism and Event Promotion:__ Promote motorsport-related experiences and events for revenue generation.
 
-### Audience
+### Audience 🎯
 
 _The target audience for the above website would include:_
 
