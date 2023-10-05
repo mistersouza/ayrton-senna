@@ -210,6 +210,14 @@ _Testing at every stage of development, keeping it on point.
 + Take a peek at what Lighthouse has to say.
 ![Lighthouse perfomance report](assets/images/readme/memorial-performance.webp)
 
+### Bug Fixes
+
++ The social network links in the footer weren't working, and it was a bit puzzling since there weren't any syntax errors. Turns out, it was a quirk in the stylesheet. The 'main' element had decided to cover up the footer, making it impossible to click on those links. We sorted it out by tweaking the positioning.
+
+### Unfixed Bugs
+
++ The signup link doesn't light up when the related section scrolls into view. No worries, though; we're on it, making sure to iron out this bug while we're pumping up overall interactivity.
+  
 ## Deployment 🚀
 
 _We pushed the site live on GitHub Pages.
